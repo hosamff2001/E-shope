@@ -6,10 +6,14 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I use mane tools for build app :  
+1.Dio for handleing api  
+2.Sheard prefrance for cash memory  
+3.Bloc as State mangment  
+4.toast  
+5.bottom naivgate bar  
+6.cursave image  
+7.some bakage for theam  
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
